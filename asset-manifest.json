@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vyshnav-Pradeep-21BBS0019/static/css/main.923757d8.css",
+    "main.js": "/Vyshnav-Pradeep-21BBS0019/static/js/main.f6803ba0.js",
+    "index.html": "/Vyshnav-Pradeep-21BBS0019/index.html",
+    "main.923757d8.css.map": "/Vyshnav-Pradeep-21BBS0019/static/css/main.923757d8.css.map",
+    "main.f6803ba0.js.map": "/Vyshnav-Pradeep-21BBS0019/static/js/main.f6803ba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923757d8.css",
+    "static/js/main.f6803ba0.js"
+  ]
+}
